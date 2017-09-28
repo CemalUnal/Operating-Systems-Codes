@@ -1,8 +1,8 @@
-/*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
- * Author: Cemal Unal,                                                          *
- * Purpose: Implement matrix multiplication with using process communication	*
+/*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+ * Author: Cemal Unal,                                                          							*
+ * Purpose: Implement matrix multiplication with using process communication								*
  * Language:  ANSI C															*
- *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*/
+ *	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*/
 
 #include <stdio.h>
 #include <stdlib.h>
